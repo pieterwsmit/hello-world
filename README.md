@@ -1,2 +1,3 @@
 # hello-world
-This is just for training purposes
+This is just for playing around purposes
+A bit about myself...
